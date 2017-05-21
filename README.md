@@ -13,7 +13,7 @@ Technologies Used:
 
 simply clone this repo using 
 
-    git clone git@github.com:michaelcheng429/meanstacktutorial.git
+    git clone https://github.com/rikkz/Contact-List-App
 
 then install the Node modules with
 
